@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Gal Bis</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Parola</string>
+    <string name="prompt_password_again">Confirma Parola</string>
+    <string name="prompt_msg">Scrie un anunt</string>
+    <string name="action_register">Inregistreaza-ma</string>
+    <string name="action_sign_in_short">Logare</string>
+    <string name="action_sign_up">Inregistrare</string>
+    <string name="action_send">Trimite</string>
+    <string name="error_invalid_email">Aceasta adresa de E-mail nu este valida</string>
+    <string name="error_invalid_password">Parola este prea scurta sau nu se potriveste</string>
+    <string name="error_incorrect_password">Parola este incorecta</string>
+    <string name="error_field_required">Acest camp trebuie completat</string>
+    <string name="sample_message">Hello!</string>
+    <string-array name="finantare">
+        <item>00 V3 Introducere</item>
+        <item>01 V3 Capitolul 1</item>
+        <item>02 V3 Cap.II BN</item>
+        <item>03 V3 Capitolul III-SWOT</item>
+        <item>04 V3 Capitolul IV obiective-prioritati</item>
+        <item>05 V3 M3.1-cu track</item>
+        <item>05 V3 M6.1-cu track</item>
+        <item>05 V3 M6.2-cu track</item>
+        <item>05 V3 M6.3-cu track</item>
+        <item>05 V3 M6.4-cu track</item>
+        <item>05 V3 M6.5-cu track</item>
+        <item>05 V3 M6.6-cu track</item>
+        <item>06 V3 Capitolul VI</item>
+        <item>07 V3 Capitolul VII</item>
+        <item>08 V3 Cap.VIII Animare BN</item>
+        <item>09 V3 Capitolul IX-cu track</item>
+        <item>10 V2 Capitolul X</item>
+        <item>11 V3 Capitolul XI</item>
+        <item>12 V3 Capitolul XII</item>
+        <item>Anexa 2 Fisa-de-prezentare-a-teritoriului</item>
+        <item>Anexa 4 Planul-de-finantare dupa bonusare</item>
+        <item>Anexa 5 Harta Lider Bistrita Nasaud</item>
+        <item>Anexa 8 Fisa Postului-cu track</item>
+        <item>Anexa-1-Modificare-GAL Lider</item>
+        <item>Anexa-3-Componenta-parteneriatului</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "371985654797",
+    "firebase_url": "https://galb-391ab.firebaseio.com",
+    "project_id": "galb-391ab",
+    "storage_bucket": "galb-391ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371985654797:android:2bf30d0ede10ca4f",
+        "android_client_info": {
+          "package_name": "com.example.anisorac.galbisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371985654797-p913t8cravst2ml9hmrrhrrriq58bnq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfM6GUAH_TaSNEzNesH5_vwCHsFukFoqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371985654797:android:25937c5bbaa3019d",
+        "android_client_info": {
+          "package_name": "com.anisorac_alex.GALB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371985654797-p913t8cravst2ml9hmrrhrrriq58bnq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfM6GUAH_TaSNEzNesH5_vwCHsFukFoqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
